@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ef2cd0b-10b9-496c-b2fd-5e4c292708c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/simulation-tomcat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/browser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/src/browser/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/src/test/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/file/index.view" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/server.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/server/HttpServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/server/HttpServletRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/server/HttpServletResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/server/ServerFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/server/ServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/server/ServletController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/web.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\aaa\simulation-tomcat\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="IntelliJConfiguration">
+    <option name="PROPERTY_FILES">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="REMOVE_NBSP" value="true" />
+    <option name="CREATE_NEW_JSP" value="true" />
+    <option name="KEY_RESOLUTION_TYPE" value="Use all words in label" />
+    <option name="PROMPT_FOR_KEY_PREFIX" value="false" />
+    <option name="LABEL_PART_1" value="&lt;bean:message key=&quot;" />
+    <option name="LABEL_PART_2" value="&quot;/&gt;" />
+  </component>
+  <component name="ProjectId" id="1fq9OvIhE9rKlESHRb9mdMisjoq" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\aaa\simulation-tomcat\server\src" />
+      <recent name="C:\aaa\simulation-tomcat\browser\src" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ef2cd0b-10b9-496c-b2fd-5e4c292708c7" name="Default Changelist" comment="" />
+      <created>1596934727680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596934727680</updated>
+      <workItem from="1596934731582" duration="335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="266" y="182" key="#Project_Structure" timestamp="1596934939494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="266" y="182" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1596934939494" />
+    <state x="656" y="173" key="CommitChangelistDialog2" timestamp="1596935198352">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="173" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596935198352" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1596934783369">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596934783369" />
+    <state x="647" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1596934734678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="647" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596934734678" />
+    <state x="49" y="136" key="new project wizard" timestamp="1596934934151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="49" y="136" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1596934934151" />
+  </component>
+</project>
